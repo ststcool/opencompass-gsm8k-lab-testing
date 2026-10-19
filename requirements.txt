@@ -1,0 +1,2 @@
+opencompass==0.5.4
+numpy>=2,<3
